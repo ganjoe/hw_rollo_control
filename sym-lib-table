@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BD63620AEFV")(type "KiCad")(uri "${KIPRJMOD}/extlib/BD63620AEFV.kicad_sym")(options "")(descr ""))
+  (lib (name "IFX007TAUMA1")(type "KiCad")(uri "${KIPRJMOD}/extlib/IFX007TAUMA1.kicad_sym")(options "")(descr ""))
+)
