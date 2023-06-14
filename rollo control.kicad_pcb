@@ -639,13 +639,13 @@
       (net 12 "/DC Drive/VS") (pinfunction "VS") (pintype "passive") (tstamp dad9eab1-512a-46fc-b135-198af9168a9d))
     (pad "8" smd rect (at 0 3.05 90) (size 9.4 10.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 25 "/DC Drive/DC-") (pinfunction "OUT_2") (pintype "passive") (tstamp d3359fdf-d654-4092-a130-eac061d05744))
-    (model "IFX007TAUMA1.stp"
-      (offset (xyz 0 -4.499999932 2.309999908))
+    (model "${KICAD7_3DMODEL_DIR}/IFX007TAUMA1.stp"
+      (offset (xyz 0 -2.5 2.3))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/extlib/IFX007TAUMA1/3D/IFX007TAUMA1.stp"
-      (offset (xyz 0 -3.5 2.2))
+    (model "C:/GitHub/kicad_customlib/IFX007TAUMA1.stp"
+      (offset (xyz 0 -4 2.3))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -922,6 +922,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "C:/GitHub/kicad_customlib/BD63620AEFV.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Module:Pololu_Breakout-16_15.2x20.3mm" (layer "F.Cu")
@@ -1082,8 +1087,8 @@
       (net 12 "/DC Drive/VS") (pinfunction "VS") (pintype "passive") (tstamp e8d535b2-2b72-46a8-a4db-a6d49c63738f))
     (pad "8" smd rect (at 0 3.05 90) (size 9.4 10.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 22 "/DC Drive/DC+") (pinfunction "OUT_2") (pintype "passive") (tstamp cbb10a2e-7087-4ee8-a283-dfaa2e8b0c69))
-    (model "IFX007TAUMA1.stp"
-      (offset (xyz 0 -4.499999932 2.309999908))
+    (model "C:/GitHub/kicad_customlib/IFX007TAUMA1.stp"
+      (offset (xyz 0 -4 2.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )

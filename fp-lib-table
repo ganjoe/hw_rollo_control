@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "extlib")(type "KiCad")(uri "${KIPRJMOD}/extlib")(options "")(descr ""))
+  (lib (name "kicad_customlib")(type "KiCad")(uri "C:/GitHub/kicad_customlib")(options "")(descr ""))
 )
