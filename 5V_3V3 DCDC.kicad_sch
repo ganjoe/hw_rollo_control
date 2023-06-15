@@ -521,7 +521,7 @@
     (stroke (width 0) (type default))
     (uuid 6af3c90f-c85f-4cd7-90c2-56fe0162f193)
   )
-  (wire (pts (xy 204.47 67.31) (xy 214.63 67.31))
+  (wire (pts (xy 204.47 67.31) (xy 223.52 67.31))
     (stroke (width 0) (type default))
     (uuid 6b189f57-438c-4287-836c-a4d9e2599a45)
   )
@@ -698,7 +698,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 6a61dabc-0c67-435d-95a6-ecea6e2e7fb0)
   )
-  (hierarchical_label "5V0" (shape input) (at 214.63 67.31 0) (fields_autoplaced)
+  (hierarchical_label "5V0" (shape input) (at 223.52 67.31 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid c61682c3-37cf-4425-9cad-e528ad1e46f1)
   )
@@ -916,7 +916,7 @@
   (symbol (lib_id "Regulator_Linear:AP7384-33SA") (at 191.77 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4e46491c-ff27-4274-924e-12192029e65c)
-    (property "Reference" "U4" (at 191.77 97.9551 0)
+    (property "Reference" "U3" (at 191.77 97.9551 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "AP7384-33SA" (at 191.77 99.8761 0)
@@ -934,7 +934,7 @@
     (instances
       (project "rollo control"
         (path "/7fd4875b-e2b3-49e9-a377-320ee6c6aef7/adf5b44f-e84b-4c09-9130-ef2a542c1841"
-          (reference "U4") (unit 1)
+          (reference "U3") (unit 1)
         )
       )
     )
@@ -1001,7 +1001,7 @@
   (symbol (lib_id "Regulator_Switching:AP63205WU") (at 140.97 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b964abb4-530a-4d06-90e7-a93e2dc90815)
-    (property "Reference" "U3" (at 140.97 66.8401 0)
+    (property "Reference" "U2" (at 140.97 66.8401 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "AP63205WU" (at 140.97 68.7611 0)
@@ -1022,7 +1022,7 @@
     (instances
       (project "rollo control"
         (path "/7fd4875b-e2b3-49e9-a377-320ee6c6aef7/adf5b44f-e84b-4c09-9130-ef2a542c1841"
-          (reference "U3") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -1085,7 +1085,7 @@
           (reference "U6") (unit 1)
         )
         (path "/7fd4875b-e2b3-49e9-a377-320ee6c6aef7/adf5b44f-e84b-4c09-9130-ef2a542c1841"
-          (reference "U5") (unit 1)
+          (reference "U4") (unit 1)
         )
       )
     )

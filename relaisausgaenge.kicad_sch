@@ -684,13 +684,13 @@
   (symbol (lib_id "Transistor_Array:ULN2004A") (at 76.2 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1e3a7183-0e80-4b76-a193-93ba5b0835e0)
-    (property "Reference" "U7" (at 76.2 74.4601 0)
+    (property "Reference" "U6" (at 76.2 74.4601 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "ULN2004A" (at 76.2 76.3811 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 77.47 104.14 0)
+    (property "Footprint" "Package_SO:TSSOP-16_4.4x5mm_P0.65mm" (at 77.47 104.14 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/uln2003a.pdf" (at 78.74 95.25 0)
@@ -715,7 +715,7 @@
     (instances
       (project "rollo control"
         (path "/7fd4875b-e2b3-49e9-a377-320ee6c6aef7/f84d4e41-04bc-49f0-bae3-d4cb51e0b9a0"
-          (reference "U7") (unit 1)
+          (reference "U6") (unit 1)
         )
       )
     )

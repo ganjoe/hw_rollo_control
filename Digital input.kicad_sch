@@ -1111,7 +1111,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 109.22 86.36 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0391b1fc-e5e8-4cdd-a3f8-a9e0dc2bfd0f)
-    (property "Reference" "TP4" (at 111.76 88.392 0)
+    (property "Reference" "TP3" (at 111.76 88.392 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "TestPoint" (at 111.76 90.932 0)
@@ -1127,7 +1127,7 @@
     (instances
       (project "rollo control"
         (path "/7fd4875b-e2b3-49e9-a377-320ee6c6aef7/27b75ada-6c2a-4515-886a-42a027319529"
-          (reference "TP4") (unit 1)
+          (reference "TP3") (unit 1)
         )
       )
     )
@@ -1194,7 +1194,7 @@
     (property "Value" "Conn_01x04" (at 141.732 86.3673 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical" (at 139.7 83.82 0)
+    (property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical" (at 139.7 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 139.7 83.82 0)
@@ -1216,7 +1216,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 99.06 88.9 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3a615ee9-2379-4b5c-ad25-3217646d21b4)
-    (property "Reference" "TP3" (at 101.6 90.932 0)
+    (property "Reference" "TP4" (at 101.6 90.932 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "TestPoint" (at 101.6 93.472 0)
@@ -1232,7 +1232,7 @@
     (instances
       (project "rollo control"
         (path "/7fd4875b-e2b3-49e9-a377-320ee6c6aef7/27b75ada-6c2a-4515-886a-42a027319529"
-          (reference "TP3") (unit 1)
+          (reference "TP4") (unit 1)
         )
       )
     )
