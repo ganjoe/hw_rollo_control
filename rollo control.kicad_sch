@@ -99,8 +99,8 @@
     )
   )
 
-  (bus_alias "SolidState" (members "pump1" "pump2" "pump3" "pump4" "pump_fb2" "pump_fb1"))
   (bus_alias "Ain" (members "Ain_ntc0+" "Ain_ntc0-" "Ain_12V_Sig" "Ain_24V_Sig" "Ain_ntc1+" "Ain_ntc1-"))
+  (bus_alias "SolidState" (members "pump1" "pump2" "pump3" "pump4" "pump_fb2" "pump_fb1"))
   (bus_alias "Rel" (members "REL1" "REL2" "REL3" "REL4" "REL5" "REL6" "REL7"))
   (bus_alias "DCDrive" (members "IFX1_FB" "IFX1_IN" "IFX1_INH" "IFX2_FB" "IFX2_IN" "IFX2_INH"))
   (bus_alias "Autoterm" (members "RX" "TX"))
