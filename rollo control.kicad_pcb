@@ -454,7 +454,7 @@
 
   (footprint "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 0eb84a61-8a20-43c0-96b5-455b8e80754a)
-    (at 75.438 54.5775 180)
+    (at 89.29 54.5275 180)
     (descr "Generic Phoenix Contact connector footprint for: MSTBA_2,5/2-G-5,08; number of pins: 02; pin pitch: 5.08mm; Angled || order number: 1757242 12A || order number: 1923869 16A (HC)")
     (tags "phoenix_contact connector MSTBA_01x02_G_5.08mm")
     (property "Sheetfile" "rollo control.kicad_sch")
@@ -2358,7 +2358,7 @@
 
   (footprint "Fuse:Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal" (layer "F.Cu")
     (tstamp 3c39b5d6-746a-405b-be32-3a9b6619725f)
-    (at 85 47.244)
+    (at 109.5 47.25)
     (descr "Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 100, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf")
     (tags "fuse clip open")
     (property "Sheetfile" "rollo control.kicad_sch")
@@ -2636,7 +2636,7 @@
 
   (footprint "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 42f9825e-745b-4803-99e7-a7669765f615)
-    (at 130.64 53.9425 180)
+    (at 75.79 54.5275 180)
     (descr "Generic Phoenix Contact connector footprint for: MSTBA_2,5/2-G-5,08; number of pins: 02; pin pitch: 5.08mm; Angled || order number: 1757242 12A || order number: 1923869 16A (HC)")
     (tags "phoenix_contact connector MSTBA_01x02_G_5.08mm")
     (property "Sheetfile" "rollo control.kicad_sch")
@@ -3231,7 +3231,7 @@
 
   (footprint "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 51586f90-7248-4d60-b50e-dd6eadaf206e)
-    (at 117.475 53.9425 180)
+    (at 102.54 54.5275 180)
     (descr "Generic Phoenix Contact connector footprint for: MSTBA_2,5/2-G-5,08; number of pins: 02; pin pitch: 5.08mm; Angled || order number: 1757242 12A || order number: 1923869 16A (HC)")
     (tags "phoenix_contact connector MSTBA_01x02_G_5.08mm")
     (property "Sheetfile" "rollo control.kicad_sch")
@@ -3506,7 +3506,7 @@
 
   (footprint "Fuse:Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal" (layer "F.Cu")
     (tstamp 586b4efc-4f16-424a-9343-087d9000bf00)
-    (at 85 53.848)
+    (at 109.5 53.75)
     (descr "Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 100, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf")
     (tags "fuse clip open")
     (property "Sheetfile" "rollo control.kicad_sch")
@@ -4964,7 +4964,7 @@
 
   (footprint "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp a2485588-1097-48b8-a14b-313b78b4c71c)
-    (at 62.24 54.5775 180)
+    (at 62.54 54.5275 180)
     (descr "Generic Phoenix Contact connector footprint for: MSTBA_2,5/2-G-5,08; number of pins: 02; pin pitch: 5.08mm; Angled || order number: 1757242 12A || order number: 1923869 16A (HC)")
     (tags "phoenix_contact connector MSTBA_01x02_G_5.08mm")
     (property "Sheetfile" "rollo control.kicad_sch")
@@ -8244,7 +8244,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering" (layer "B.Cu")
     (tstamp 551b4cf9-d26b-44c1-868f-7ef9be89caa2)
-    (at 113.665 49.53 180)
+    (at 123.5 62.25 180)
     (descr "SOT-323, SC-70 Handsoldering")
     (tags "SOT-323 SC-70 Handsoldering")
     (property "Field2" "")
